@@ -1,0 +1,11 @@
+# Fichiers et dossiers Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Fichiers et dossiers React
+/build
+/.cache
+/src/**/*.js.map
+.DS_Store
